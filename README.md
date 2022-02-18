@@ -18,5 +18,10 @@ echo "Bring out the gimp."
 
 exit 0
 ```
-- ⚡ Fun facts: I am the consummate 'Jack-of-all-trades' and as such, I suck at lots of things. Manic episodes & BPD notwithstanding, the one realm in which I truly excel has (at BEST) a sub-60%, hard-capped success rate (fml). I'll bet you can't guess what it is. But don't cry for me, Argentina National Team...I retired before 40. THANKS, OBAM...erm, I mean BITCOIN!!1
--->
+- ⚡ Fun facts: I am the consummate 'Jack-of-all-trades' and as such, I suck at lots of things. 
+
+Manic episodes & BPD notwithstanding, the one realm in which I truly excel has (at BEST) a sub-60%, hard-capped success rate (fml). I'll bet you can't guess what it is.
+
+But don't cry for me, Argentina National Team...I retired before 40.
+
+THANKS, OBAM...erm, I mean BITCOIN!!1
