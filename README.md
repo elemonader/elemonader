@@ -10,12 +10,18 @@
 #!/bin/bash
 
 until who | grep -q "$ballsdeepstudmuffin6969"
+
 do
+
    sleep 60
+
 done
 
+
 echo -e '\a'
+
 echo "Bring out the gimp."
+
 
 exit 0
 
