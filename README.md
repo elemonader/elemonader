@@ -8,13 +8,10 @@
 - 📫 How to reach me:
 ```js
 #!/bin/bash 
-
 until who | grep -q "$ballsdeepstudmuffin6969"
-
 do
    sleep 60
 done
-
 
 echo -e '\a'
 echo "Bring out the gimp."
