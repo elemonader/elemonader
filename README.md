@@ -6,7 +6,7 @@
 - 🤔 I’m looking for love in all the wrong places.
 - 💬 Ask me about your day.
 - 📫 How to reach me:
-```js
+```text
 #!/bin/bash 
 until who | grep -q "$ballsdeepstudmuffin6969"
 do
