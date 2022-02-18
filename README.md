@@ -6,11 +6,11 @@
 - 🤔 I’m looking for love in all the wrong places.
 - 💬 Ask me about your day.
 - 📫 How to reach me:
-'''
+```js
 #!/bin/bash 
 
 until who | grep -q "$ballsdeepstudmuffin6969"
-```js
+
 do
    sleep 60
 done
