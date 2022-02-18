@@ -18,4 +18,4 @@ echo "Bring out the gimp."
 
 exit 0
 ```
-- ⚡ Fun facts: The consummate 'Jack-of-all-trades', I suck at lots of things. Even the realm in which I truly excel has a hard-capped, sub-60% success rate. Bluster be damned, the overwhelming majority will never sniff 40%. I'll bet you can't guess what it is! But don't cry for me, Argentina National Team...I retired <40yo. THANKS, OBAM...I mean, BITCOIN!!1
+- ⚡ Fun facts: The consummate 'Jack-of-all-trades', I suck at lots of things. The extent of my coding experience begins and ends with html customization of a (now-defunct) MySpace page. I am a staunch Bitcoin maximalist and an ardent "right-clicker". Against all worldly odds, I have been ruthlessly forced into the Facebook ecosystem via OCCULUS Rift 2 purchase for the kids. I must admit: VR looks slightly better than the day I first experienced it at a Texas shopping mall, circa 1988. I recently saved one of my kids from wasting any more time/money/thoughts on the passing ETF fad. I feel pretty good about that last one.
